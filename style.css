@@ -165,12 +165,12 @@ background-attachment: fixed;
             height: 400px;
         }
 }
-@media (min-width: 350.1px) and (max-width: 600px) {
+@media (min-width: 250.1px) and (max-width: 650px) {
     .img-slide-show {
         min-height: 300px;
         max-height: 300px;
         }
-      .carousel-caption  {
+        .carousel-caption  {
             display: none;
         }
  }
