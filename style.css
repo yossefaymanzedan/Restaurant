@@ -165,3 +165,9 @@ background-attachment: fixed;
             height: 400px;
         }
 }
+@media (min-width: 350.1px) and (max-width: 600px) {
+    .img-slide-show {
+        min-height: 300px;
+        max-height: 300px;
+        }
+ }
