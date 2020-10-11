@@ -170,4 +170,7 @@ background-attachment: fixed;
         min-height: 300px;
         max-height: 300px;
         }
+      .carousel-caption  {
+            display: none;
+        }
  }
