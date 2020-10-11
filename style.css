@@ -173,8 +173,7 @@ background-attachment: fixed;
         .carousel-caption  {
             display: none;
         }
- }
-@media (min-width: 0px) and (max-width: 992px) {
+ }@media (min-width: 0px) and (max-width: 992px) {
     .home {
 background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9);
 background-size: cover;
